@@ -6,6 +6,9 @@ This project analyzes pharmaceutical sales data using Python, Pandas, and Matplo
 ## Dataset
 The dataset contains daily sales of drug categories (ATC codes).
 
+## Project Page
+The link for this Project: https://roadmap.sh/projects/pharmaceutical-sales-data
+
 ## Technologies Used
 - Python
 - Pandas
